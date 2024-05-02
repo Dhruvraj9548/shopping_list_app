@@ -1,7 +1,14 @@
 # shopping_list_app
 
-A new Flutter project.
+To build and run this project:
 
+Get Flutter here if you don't already have it
+
+Clone this repository.
+
+cd into the repo folder.
+
+run flutter run-android or flutter run-ios to build the app.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
